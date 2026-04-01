@@ -1,0 +1,29 @@
+[SYS] 2026/03/20 - 09:25:29 | initializing token encoders 
+[SYS] 2026/03/20 - 09:25:29 | token encoders initialized 
+[SYS] 2026/03/20 - 09:25:29 | using PostgreSQL as database 
+[SYS] 2026/03/20 - 09:25:29 | database migration started 
+[SYS] 2026/03/20 - 09:25:32 | system is already initialized at: 2026-03-19 23:48:09 +0800 CST 
+[SYS] 2026/03/20 - 09:25:32 | SYNC_FREQUENCY not set, use default value 60 
+[SYS] 2026/03/20 - 09:25:32 | Redis is enabled 
+[SYS] 2026/03/20 - 09:25:32 | i18n initialized with languages: zh-CN, zh-TW, en 
+[SYS] 2026/03/20 - 09:25:32 | Loaded 0 custom OAuth providers 
+[SYS] 2026/03/20 - 09:25:32 | New API v0.11.7 started 
+[SYS] 2026/03/20 - 09:25:32 | memory cache enabled 
+[SYS] 2026/03/20 - 09:25:32 | sync frequency: 60 seconds 
+[SYS] 2026/03/20 - 09:25:32 | channels synced from database 
+[SYS] 2026/03/20 - 09:25:32 | 正在更新数据看板数据... 
+[SYS] 2026/03/20 - 09:25:32 | 保存数据看板数据成功，共保存0条数据 
+[INFO] 2026/03/20 - 09:25:32 | SYSTEM | subscription quota reset task started: tick=1m0s 
+[SYS] 2026/03/20 - 09:25:32 | upstream model update task started: interval=30m0s 
+[SYS] 2026/03/20 - 09:25:32 | batch update enabled with interval 5s 
+[INFO] 2026/03/20 - 09:25:32 | SYSTEM | codex credential auto-refresh task started: tick=10m0s threshold=24h0m0s 
+
+  [32mNew API v0.11.7[0m  ready in 2471 ms
+
+  ➜  [1mNetwork:[0m http://172.19.0.4:3000/
+
+[SYS] 2026/03/20 - 09:25:47 | 任务进度轮询开始 
+[SYS] 2026/03/20 - 09:25:47 | 任务进度轮询完成 
+[GIN] 2026/03/20 - 09:25:59 | api | 20260320012559909575287y0fVKZOc | 200 |     809.422µs |             ::1 |     GET /api/status
+[SYS] 2026/03/20 - 09:26:02 | 任务进度轮询开始 
+[SYS] 2026/03/20 - 09:26:02 | 任务进度轮询完成 

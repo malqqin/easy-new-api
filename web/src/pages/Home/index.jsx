@@ -220,6 +220,10 @@ const Home = () => {
                       size={isMobile ? 'default' : 'large'}
                       className='!rounded-3xl px-8 py-2'
                       icon={<IconPlay />}
+                      style={{
+                        background: 'linear-gradient(135deg, #D97757 0%, #C96442 100%)',
+                        borderColor: 'transparent',
+                      }}
                     >
                       {t('获取密钥')}
                     </Button>

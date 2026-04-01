@@ -1,0 +1,218 @@
+[SYS] 2026/03/19 - 23:42:23 | initializing token encoders 
+[SYS] 2026/03/19 - 23:42:23 | token encoders initialized 
+[SYS] 2026/03/19 - 23:42:23 | using PostgreSQL as database 
+[SYS] 2026/03/19 - 23:42:23 | database migration started 
+[SYS] 2026/03/19 - 23:42:23 | system is not initialized and no root user exists 
+[SYS] 2026/03/19 - 23:42:23 | SYNC_FREQUENCY not set, use default value 60 
+[SYS] 2026/03/19 - 23:42:23 | Redis is enabled 
+[SYS] 2026/03/19 - 23:42:23 | i18n initialized with languages: zh-CN, zh-TW, en 
+[SYS] 2026/03/19 - 23:42:23 | Loaded 0 custom OAuth providers 
+[SYS] 2026/03/19 - 23:42:23 | New API v0.11.7 started 
+[SYS] 2026/03/19 - 23:42:23 | memory cache enabled 
+[SYS] 2026/03/19 - 23:42:23 | sync frequency: 60 seconds 
+[SYS] 2026/03/19 - 23:42:23 | channels synced from database 
+[SYS] 2026/03/19 - 23:42:23 | 正在更新数据看板数据... 
+[SYS] 2026/03/19 - 23:42:23 | 保存数据看板数据成功，共保存0条数据 
+[SYS] 2026/03/19 - 23:42:23 | batch update enabled with interval 5s 
+[SYS] 2026/03/19 - 23:42:23 | upstream model update task started: interval=30m0s 
+[INFO] 2026/03/19 - 23:42:23 | SYSTEM | subscription quota reset task started: tick=1m0s 
+[INFO] 2026/03/19 - 23:42:23 | SYSTEM | codex credential auto-refresh task started: tick=10m0s threshold=24h0m0s 
+
+  [32mNew API v0.11.7[0m  ready in 519 ms
+
+  ➜  [1mNetwork:[0m http://172.19.0.4:3000/
+
+[SYS] 2026/03/19 - 23:42:38 | 任务进度轮询开始 
+[SYS] 2026/03/19 - 23:42:38 | 任务进度轮询完成 
+[GIN] 2026/03/19 - 23:42:53 | api | 2026031915425386120164fNb8Ioq4 | 200 |    1.056618ms |             ::1 |     GET /api/status
+[SYS] 2026/03/19 - 23:42:53 | 任务进度轮询开始 
+[SYS] 2026/03/19 - 23:42:53 | 任务进度轮询完成 
+[SYS] 2026/03/19 - 23:43:08 | 任务进度轮询开始 
+[SYS] 2026/03/19 - 23:43:08 | 任务进度轮询完成 
+[GIN] 2026/03/19 - 23:43:23 | api | 202603191543231738177124XOWTumC | 200 |     919.903µs |             ::1 |     GET /api/status
+[SYS] 2026/03/19 - 23:43:23 | syncing options from database 
+[SYS] 2026/03/19 - 23:43:23 | syncing channels from database 
+[SYS] 2026/03/19 - 23:43:23 | channels synced from database 
+[SYS] 2026/03/19 - 23:43:23 | 任务进度轮询开始 
+[SYS] 2026/03/19 - 23:43:23 | 任务进度轮询完成 
+[SYS] 2026/03/19 - 23:43:38 | 任务进度轮询开始 
+[SYS] 2026/03/19 - 23:43:38 | 任务进度轮询完成 
+[GIN] 2026/03/19 - 23:43:53 | api | 20260319154353279583665X5vbkqjx | 200 |    1.215474ms |             ::1 |     GET /api/status
+[SYS] 2026/03/19 - 23:43:53 | 任务进度轮询开始 
+[SYS] 2026/03/19 - 23:43:53 | 任务进度轮询完成 
+[SYS] 2026/03/19 - 23:44:08 | 任务进度轮询开始 
+[SYS] 2026/03/19 - 23:44:08 | 任务进度轮询完成 
+[GIN] 2026/03/19 - 23:44:23 | api | 20260319154423379770556O5cNRpZY | 200 |     949.315µs |             ::1 |     GET /api/status
+[SYS] 2026/03/19 - 23:44:23 | syncing options from database 
+[SYS] 2026/03/19 - 23:44:23 | syncing channels from database 
+[SYS] 2026/03/19 - 23:44:23 | channels synced from database 
+[SYS] 2026/03/19 - 23:44:23 | 任务进度轮询开始 
+[SYS] 2026/03/19 - 23:44:23 | 任务进度轮询完成 
+[SYS] 2026/03/19 - 23:44:38 | 任务进度轮询开始 
+[SYS] 2026/03/19 - 23:44:38 | 任务进度轮询完成 
+[GIN] 2026/03/19 - 23:44:53 | api | 202603191544534719468458I1HaXuH | 200 |    1.148894ms |             ::1 |     GET /api/status
+[SYS] 2026/03/19 - 23:44:53 | 任务进度轮询开始 
+[SYS] 2026/03/19 - 23:44:53 | 任务进度轮询完成 
+[SYS] 2026/03/19 - 23:45:08 | 任务进度轮询开始 
+[SYS] 2026/03/19 - 23:45:08 | 任务进度轮询完成 
+[SYS] 2026/03/19 - 23:45:23 | syncing options from database 
+[SYS] 2026/03/19 - 23:45:23 | syncing channels from database 
+[SYS] 2026/03/19 - 23:45:23 | channels synced from database 
+[SYS] 2026/03/19 - 23:45:23 | 任务进度轮询开始 
+[GIN] 2026/03/19 - 23:45:23 | api | 20260319154523667512002o7BwORue | 200 |    1.008187ms |             ::1 |     GET /api/status
+[SYS] 2026/03/19 - 23:45:23 | 任务进度轮询完成 
+[SYS] 2026/03/19 - 23:45:38 | 任务进度轮询开始 
+[SYS] 2026/03/19 - 23:45:38 | 任务进度轮询完成 
+[SYS] 2026/03/19 - 23:45:53 | 任务进度轮询开始 
+[SYS] 2026/03/19 - 23:45:53 | 任务进度轮询完成 
+[GIN] 2026/03/19 - 23:45:53 | api | 20260319154553745457912aYogAmHp | 200 |    1.067045ms |             ::1 |     GET /api/status
+[SYS] 2026/03/19 - 23:46:08 | 任务进度轮询开始 
+[SYS] 2026/03/19 - 23:46:08 | 任务进度轮询完成 
+[SYS] 2026/03/19 - 23:46:23 | syncing options from database 
+[SYS] 2026/03/19 - 23:46:23 | syncing channels from database 
+[SYS] 2026/03/19 - 23:46:23 | channels synced from database 
+[SYS] 2026/03/19 - 23:46:23 | 任务进度轮询开始 
+[SYS] 2026/03/19 - 23:46:23 | 任务进度轮询完成 
+[GIN] 2026/03/19 - 23:46:23 | api | 20260319154623836421526zjaV6byL | 200 |     725.705µs |             ::1 |     GET /api/status
+[GIN] 2026/03/19 - 23:46:32 | api | 20260319154632440350263nsj1hObj | 200 |   16.214772ms |    192.168.65.1 |     GET /api/home_page_content
+[GIN] 2026/03/19 - 23:46:32 | api | 20260319154632439570473GvhlQDwx | 200 |   20.915957ms |    192.168.65.1 |     GET /api/notice
+[SYS] 2026/03/19 - 23:46:38 | 任务进度轮询开始 
+[SYS] 2026/03/19 - 23:46:38 | 任务进度轮询完成 
+[SYS] 2026/03/19 - 23:46:53 | 任务进度轮询开始 
+[SYS] 2026/03/19 - 23:46:53 | 任务进度轮询完成 
+[GIN] 2026/03/19 - 23:46:54 | api | 20260319154654176107387qDQbkGMy | 200 |    4.043853ms |             ::1 |     GET /api/status
+[GIN] 2026/03/19 - 23:47:00 | api | 20260319154700248691038CHUtszkr | 401 |    8.397197ms |    192.168.65.1 |     GET /api/data/?username=&start_timestamp=1773848820&end_timestamp=1773938820&default_time=hour
+[GIN] 2026/03/19 - 23:47:00 | api | 20260319154700247891945xLPkajKj | 401 |   10.108974ms |    192.168.65.1 |     GET /api/user/self
+[GIN] 2026/03/19 - 23:47:00 | api | 20260319154700961215705jv4e92nx | 200 |      815.97µs |    192.168.65.1 |     GET /api/notice
+[GIN] 2026/03/19 - 23:47:00 | api | 20260319154700979864359CvonO2bJ | 200 |    1.122689ms |    192.168.65.1 |     GET /api/home_page_content
+[GIN] 2026/03/19 - 23:47:02 | api | 20260319154702256044384wRAhJho5 | 401 |    1.692261ms |    192.168.65.1 |     GET /api/data/?username=&start_timestamp=1773848822&end_timestamp=1773938822&default_time=hour
+[GIN] 2026/03/19 - 23:47:02 | api | 2026031915470225602762841NCRjY2 | 401 |    1.940924ms |    192.168.65.1 |     GET /api/user/self
+[GIN] 2026/03/19 - 23:47:02 | api | 202603191547027847103799he3uoOO | 200 |    1.562921ms |    192.168.65.1 |     GET /api/home_page_content
+[GIN] 2026/03/19 - 23:47:02 | api | 20260319154702784713424Wh3vK4Dw | 200 |    3.019225ms |    192.168.65.1 |     GET /api/notice
+[SYS] 2026/03/19 - 23:47:08 | 任务进度轮询开始 
+[SYS] 2026/03/19 - 23:47:08 | 任务进度轮询完成 
+[SYS] 2026/03/19 - 23:47:23 | 正在更新数据看板数据... 
+[SYS] 2026/03/19 - 23:47:23 | 保存数据看板数据成功，共保存0条数据 
+[SYS] 2026/03/19 - 23:47:23 | syncing options from database 
+[SYS] 2026/03/19 - 23:47:23 | syncing channels from database 
+[SYS] 2026/03/19 - 23:47:23 | channels synced from database 
+[SYS] 2026/03/19 - 23:47:23 | 任务进度轮询开始 
+[SYS] 2026/03/19 - 23:47:23 | 任务进度轮询完成 
+[GIN] 2026/03/19 - 23:47:24 | api | 20260319154724277309268CdpupXBk | 200 |      812.62µs |             ::1 |     GET /api/status
+[SYS] 2026/03/19 - 23:47:38 | 任务进度轮询开始 
+[SYS] 2026/03/19 - 23:47:38 | 任务进度轮询完成 
+[GIN] 2026/03/19 - 23:47:49 | web | 20260319154749328188961dFksn810 | 200 |    4.526075ms |    192.168.65.1 |     GET /
+[GIN] 2026/03/19 - 23:47:49 | web | 20260319154749514245478qmTgxzQC | 200 |   33.632103ms |    192.168.65.1 |     GET /assets/tools-JRq2YJju.js
+[GIN] 2026/03/19 - 23:47:49 | web | 20260319154749541505530hHWkTn9p | 200 |   29.990021ms |    192.168.65.1 |     GET /assets/i18n-A7Efv4BT.js
+[GIN] 2026/03/19 - 23:47:49 | web | 20260319154749526395462gZqRX8GT | 200 |   69.366022ms |    192.168.65.1 |     GET /assets/react-core-D-iPSUlg.js
+[GIN] 2026/03/19 - 23:47:49 | web | 20260319154749586400104svv4vwA8 | 200 |   14.178732ms |    192.168.65.1 |     GET /assets/react-components-BnylIsR_.js
+[GIN] 2026/03/19 - 23:47:49 | web | 20260319154749528506973YVWoxOHn | 200 |   93.077958ms |    192.168.65.1 |     GET /assets/semi-ui-yRXI6evF.css
+[GIN] 2026/03/19 - 23:47:49 | web | 20260319154749555297796TmOelErH | 200 |   66.396652ms |    192.168.65.1 |     GET /assets/index-Cvafx_yn.css
+[GIN] 2026/03/19 - 23:47:49 | web | 20260319154749528370620QVC5BYxE | 200 |  238.119407ms |    192.168.65.1 |     GET /assets/semi-ui-q_syRLCx.js
+[GIN] 2026/03/19 - 23:47:50 | web | 20260319154749501903143z6IZwZ51 | 200 |   665.70252ms |    192.168.65.1 |     GET /assets/index-BQ5X9nfw.js
+[GIN] 2026/03/19 - 23:47:50 | web | 20260319154750629230863SRbQoXJT | 200 |    4.352354ms |    192.168.65.1 |     GET /assets/index-B9S5bNNQ.js
+[GIN] 2026/03/19 - 23:47:50 | api | 20260319154750669284768uE08INGJ | 200 |     1.04024ms |    192.168.65.1 |     GET /api/status
+[GIN] 2026/03/19 - 23:47:50 | web | 20260319154750682646673kZ7o7TZi | 200 |     1.03685ms |    192.168.65.1 |     GET /logo.png
+[GIN] 2026/03/19 - 23:47:50 | web | 202603191547508076920740kXTRXf3 | 200 |    2.392933ms |    192.168.65.1 |     GET /setup
+[GIN] 2026/03/19 - 23:47:50 | api | 20260319154750830259904IrT3IVqC | 200 |    1.781262ms |    192.168.65.1 |     GET /api/notice
+[GIN] 2026/03/19 - 23:47:50 | api | 20260319154750855666594TbjsIt39 | 200 |    1.938321ms |    192.168.65.1 |     GET /api/home_page_content
+[GIN] 2026/03/19 - 23:47:50 | web | 20260319154750855666590iC7EEatY | 200 |     2.19171ms |    192.168.65.1 |     GET /logo.png
+[GIN] 2026/03/19 - 23:47:50 | web | 20260319154750965119136rZ60VsLo | 200 |   10.521979ms |    192.168.65.1 |     GET /assets/i18n-A7Efv4BT.js
+[GIN] 2026/03/19 - 23:47:50 | web | 20260319154750965119127KQI9EgYj | 200 |   14.918831ms |    192.168.65.1 |     GET /assets/tools-JRq2YJju.js
+[GIN] 2026/03/19 - 23:47:51 | web | 20260319154750965119096Ipv531cd | 200 |   37.979613ms |    192.168.65.1 |     GET /assets/react-core-D-iPSUlg.js
+[GIN] 2026/03/19 - 23:47:51 | web | 20260319154751790956CB3HXwGG | 200 |    5.703553ms |    192.168.65.1 |     GET /assets/react-components-BnylIsR_.js
+[GIN] 2026/03/19 - 23:47:51 | web | 202603191547509653555402whcd2MJ | 200 |   48.977936ms |    192.168.65.1 |     GET /assets/semi-ui-yRXI6evF.css
+[GIN] 2026/03/19 - 23:47:51 | web | 20260319154750998437981ifZ17jGX | 200 |   43.982091ms |    192.168.65.1 |     GET /assets/index-Cvafx_yn.css
+[GIN] 2026/03/19 - 23:47:51 | web | 20260319154750965382417WtBSOumH | 200 |  240.433044ms |    192.168.65.1 |     GET /assets/semi-ui-q_syRLCx.js
+[GIN] 2026/03/19 - 23:47:51 | web | 20260319154750951734075plVQbE92 | 200 |  520.416463ms |    192.168.65.1 |     GET /assets/index-BQ5X9nfw.js
+[GIN] 2026/03/19 - 23:47:52 | api | 2026031915475268531653LUVA3EH4 | 200 |    2.131295ms |    192.168.65.1 |     GET /api/status
+[GIN] 2026/03/19 - 23:47:52 | web | 2026031915475272823951HgSGpcXt | 200 |    3.407222ms |    192.168.65.1 |     GET /logo.png
+[GIN] 2026/03/19 - 23:47:52 | api | 2026031915475268878156kWPx5KUx | 200 |   15.695201ms |    192.168.65.1 |     GET /api/setup
+[GIN] 2026/03/19 - 23:47:52 | web | 20260319154752353245281pICPlBes | 200 |    5.834742ms |    192.168.65.1 |     GET /logo.png
+[SYS] 2026/03/19 - 23:47:53 | 任务进度轮询开始 
+[SYS] 2026/03/19 - 23:47:53 | 任务进度轮询完成 
+[GIN] 2026/03/19 - 23:47:54 | api | 20260319154754363999085okOPqKrE | 200 |     903.259µs |             ::1 |     GET /api/status
+[SYS] 2026/03/19 - 23:48:08 | 任务进度轮询开始 
+[SYS] 2026/03/19 - 23:48:08 | 任务进度轮询完成 
+[GIN] 2026/03/19 - 23:48:09 | api | 202603191548095615796751cWwDu36 | 200 |  104.891049ms |    192.168.65.1 |    POST /api/setup
+[GIN] 2026/03/19 - 23:48:11 | web | 20260319154811184236796FGPwDMb5 | 200 |    1.797897ms |    192.168.65.1 |     GET /setup
+[GIN] 2026/03/19 - 23:48:11 | web | 20260319154811230866316KGTg7tUd | 200 |    30.47548ms |    192.168.65.1 |     GET /assets/i18n-A7Efv4BT.js
+[GIN] 2026/03/19 - 23:48:11 | web | 20260319154811237287324b6VoJTAL | 200 |   49.591615ms |    192.168.65.1 |     GET /assets/semi-ui-yRXI6evF.css
+[GIN] 2026/03/19 - 23:48:11 | web | 20260319154811230709182uQicDYYa | 200 |   72.979082ms |    192.168.65.1 |     GET /assets/index-Cvafx_yn.css
+[GIN] 2026/03/19 - 23:48:11 | web | 20260319154811315252463cx9jOfuI | 200 |    16.78634ms |    192.168.65.1 |     GET /assets/tools-JRq2YJju.js
+[GIN] 2026/03/19 - 23:48:11 | web | 20260319154811332832137H9BKtqvA | 200 |    9.086791ms |    192.168.65.1 |     GET /assets/react-components-BnylIsR_.js
+[GIN] 2026/03/19 - 23:48:11 | web | 202603191548112372955154Tlvojar | 200 |  128.744859ms |    192.168.65.1 |     GET /assets/react-core-D-iPSUlg.js
+[GIN] 2026/03/19 - 23:48:11 | web | 20260319154811237287873zzDYJKV2 | 200 |  284.642013ms |    192.168.65.1 |     GET /assets/semi-ui-q_syRLCx.js
+[GIN] 2026/03/19 - 23:48:11 | web | 20260319154811230713930Fvfyt2NQ | 200 |  631.538899ms |    192.168.65.1 |     GET /assets/index-BQ5X9nfw.js
+[GIN] 2026/03/19 - 23:48:12 | api | 20260319154812240552298a1J14XVC | 200 |    1.447962ms |    192.168.65.1 |     GET /api/setup
+[GIN] 2026/03/19 - 23:48:12 | api | 20260319154812241647862ajGTqKgy | 200 |    2.491452ms |    192.168.65.1 |     GET /api/status
+[GIN] 2026/03/19 - 23:48:12 | web | 20260319154812253009025Rx1cO42s | 200 |    1.162532ms |    192.168.65.1 |     GET /logo.png
+[GIN] 2026/03/19 - 23:48:12 | web | 20260319154812282349096HTEbekTK | 200 |    1.572503ms |    192.168.65.1 |     GET /
+[GIN] 2026/03/19 - 23:48:12 | web | 20260319154812337025916gzyGh6Z5 | 200 |    7.152674ms |    192.168.65.1 |     GET /assets/i18n-A7Efv4BT.js
+[GIN] 2026/03/19 - 23:48:12 | web | 20260319154812336878202RBJiv4UW | 200 |   16.056888ms |    192.168.65.1 |     GET /assets/tools-JRq2YJju.js
+[GIN] 2026/03/19 - 23:48:12 | web | 20260319154812336713141LuRi2pG7 | 200 |   32.638878ms |    192.168.65.1 |     GET /assets/semi-ui-yRXI6evF.css
+[GIN] 2026/03/19 - 23:48:12 | web | 20260319154812336713146dgU8vmVF | 200 |   40.226764ms |    192.168.65.1 |     GET /assets/react-core-D-iPSUlg.js
+[GIN] 2026/03/19 - 23:48:12 | web | 2026031915481237231995073Zjw7QS | 200 |    9.684091ms |    192.168.65.1 |     GET /assets/react-components-BnylIsR_.js
+[GIN] 2026/03/19 - 23:48:12 | web | 20260319154812368202085PUAo17do | 200 |   40.641523ms |    192.168.65.1 |     GET /assets/index-Cvafx_yn.css
+[GIN] 2026/03/19 - 23:48:12 | web | 20260319154812336878221V7JXODdo | 200 |  146.379193ms |    192.168.65.1 |     GET /assets/semi-ui-q_syRLCx.js
+[GIN] 2026/03/19 - 23:48:12 | web | 202603191548123367131441ovmH2hl | 200 |  493.444328ms |    192.168.65.1 |     GET /assets/index-BQ5X9nfw.js
+[GIN] 2026/03/19 - 23:48:13 | web | 20260319154813208313881G7qkFVmB | 200 |    1.573075ms |    192.168.65.1 |     GET /assets/index-B9S5bNNQ.js
+[GIN] 2026/03/19 - 23:48:13 | api | 20260319154813226899470ewC9ZLA0 | 200 |    5.396396ms |    192.168.65.1 |     GET /api/status
+[GIN] 2026/03/19 - 23:48:13 | web | 20260319154813231628989klSTXSDJ | 200 |    1.715335ms |    192.168.65.1 |     GET /logo.png
+[GIN] 2026/03/19 - 23:48:13 | api | 20260319154813285450250AqT10NDH | 200 |    2.751406ms |    192.168.65.1 |     GET /api/home_page_content
+[GIN] 2026/03/19 - 23:48:13 | api | 20260319154813285276359OD6PjDXo | 200 |    3.763577ms |    192.168.65.1 |     GET /api/notice
+[GIN] 2026/03/19 - 23:48:13 | web | 20260319154813285593995OBKHle8B | 200 |    3.610004ms |    192.168.65.1 |     GET /logo.png
+[GIN] 2026/03/19 - 23:48:17 | web | 20260319154817143894409C37pMUee | 200 |     855.103µs |    192.168.65.1 |     GET /
+[GIN] 2026/03/19 - 23:48:17 | web | 20260319154817183983859c893xLXI | 200 |   31.642618ms |    192.168.65.1 |     GET /assets/i18n-A7Efv4BT.js
+[GIN] 2026/03/19 - 23:48:17 | web | 20260319154817183805162J4dsi5NC | 200 |   33.444179ms |    192.168.65.1 |     GET /assets/react-core-D-iPSUlg.js
+[GIN] 2026/03/19 - 23:48:17 | web | 20260319154817183805168MJNC1DcY | 200 |   43.654888ms |    192.168.65.1 |     GET /assets/semi-ui-yRXI6evF.css
+[GIN] 2026/03/19 - 23:48:17 | web | 20260319154817183844674cLixHJS9 | 200 |   56.270681ms |    192.168.65.1 |     GET /assets/index-Cvafx_yn.css
+[GIN] 2026/03/19 - 23:48:17 | web | 20260319154817246319999Ukhxwkac | 200 |     6.84599ms |    192.168.65.1 |     GET /assets/react-components-BnylIsR_.js
+[GIN] 2026/03/19 - 23:48:17 | web | 202603191548172384331898Wc4Mw3w | 200 |   19.638494ms |    192.168.65.1 |     GET /assets/tools-JRq2YJju.js
+[GIN] 2026/03/19 - 23:48:17 | web | 20260319154817183902431IceLDrpe | 200 |   189.47416ms |    192.168.65.1 |     GET /assets/semi-ui-q_syRLCx.js
+[GIN] 2026/03/19 - 23:48:17 | web | 20260319154817183868793mTE31O8J | 200 |  522.962996ms |    192.168.65.1 |     GET /assets/index-BQ5X9nfw.js
+[GIN] 2026/03/19 - 23:48:18 | web | 202603191548189421696oO5aA8Sg | 200 |    2.992513ms |    192.168.65.1 |     GET /assets/index-B9S5bNNQ.js
+[GIN] 2026/03/19 - 23:48:18 | web | 2026031915481845868127coWV7lg6 | 200 |    1.216377ms |    192.168.65.1 |     GET /logo.png
+[GIN] 2026/03/19 - 23:48:18 | api | 2026031915481845581037sD20JzhX | 200 |   22.067891ms |    192.168.65.1 |     GET /api/status
+[GIN] 2026/03/19 - 23:48:18 | api | 20260319154818684957293C7FzxEf | 200 |   21.898008ms |    192.168.65.1 |     GET /api/home_page_content
+[GIN] 2026/03/19 - 23:48:18 | api | 20260319154818684957277yu1j5IY | 200 |   22.229825ms |    192.168.65.1 |     GET /api/notice
+[GIN] 2026/03/19 - 23:48:18 | web | 2026031915481868617091OCsD4MQf | 200 |   22.139216ms |    192.168.65.1 |     GET /logo.png
+[GIN] 2026/03/19 - 23:48:20 | api | 20260319154820593866284YpQ6Shlo | 401 |    9.930962ms |    192.168.65.1 |     GET /api/user/self
+[GIN] 2026/03/19 - 23:48:20 | web | 20260319154820593726702uXydWIuT | 200 |   10.640195ms |    192.168.65.1 |     GET /assets/IllustrationConstruction-BfOYqVqj.js
+[GIN] 2026/03/19 - 23:48:20 | web | 20260319154820736983082K5ljsEMG | 200 |   10.518728ms |    192.168.65.1 |     GET /login?expired=true
+[GIN] 2026/03/19 - 23:48:20 | web | 20260319154820588299943POCISbvb | 200 |  249.958036ms |    192.168.65.1 |     GET /assets/index-CaYJw_A5.js
+[GIN] 2026/03/19 - 23:48:20 | web | 20260319154820866848106AjeIXfhZ | 429 |    2.935213ms |    192.168.65.1 |     GET /assets/tools-JRq2YJju.js
+[GIN] 2026/03/19 - 23:48:20 | web | 20260319154820868434060rJAj4L8m | 429 |    1.731009ms |    192.168.65.1 |     GET /assets/react-core-D-iPSUlg.js
+[GIN] 2026/03/19 - 23:48:20 | web | 20260319154820869520655kmn68zoD | 429 |    1.330688ms |    192.168.65.1 |     GET /assets/semi-ui-q_syRLCx.js
+[GIN] 2026/03/19 - 23:48:20 | web | 20260319154820869844121uYG44iEl | 429 |    1.605918ms |    192.168.65.1 |     GET /assets/semi-ui-yRXI6evF.css
+[GIN] 2026/03/19 - 23:48:20 | web | 20260319154820869844116ev5NTiHC | 429 |    1.607194ms |    192.168.65.1 |     GET /assets/index-BQ5X9nfw.js
+[GIN] 2026/03/19 - 23:48:20 | web | 20260319154820869880007zXd4jHm5 | 429 |    3.037843ms |    192.168.65.1 |     GET /assets/react-components-BnylIsR_.js
+[GIN] 2026/03/19 - 23:48:20 | web | 202603191548208732204734m3Dnfps | 429 |    2.241506ms |    192.168.65.1 |     GET /assets/i18n-A7Efv4BT.js
+[GIN] 2026/03/19 - 23:48:20 | web | 20260319154820873185258vKHDwfzi | 429 |    2.380467ms |    192.168.65.1 |     GET /assets/index-Cvafx_yn.css
+[SYS] 2026/03/19 - 23:48:23 | syncing options from database 
+[SYS] 2026/03/19 - 23:48:23 | syncing channels from database 
+[SYS] 2026/03/19 - 23:48:23 | channels synced from database 
+[SYS] 2026/03/19 - 23:48:23 | 任务进度轮询开始 
+[SYS] 2026/03/19 - 23:48:23 | 任务进度轮询完成 
+[GIN] 2026/03/19 - 23:48:24 | api | 20260319154824448877668uN4WuknE | 200 |     872.067µs |             ::1 |     GET /api/status
+[GIN] 2026/03/19 - 23:48:29 | web | 202603191548294475666275Uheniec | 429 |     993.196µs |    192.168.65.1 |     GET /login?expired=true
+[GIN] 2026/03/19 - 23:48:35 | web | 20260319154835358641251TTN5B57g | 429 |     962.506µs |    192.168.65.1 |     GET /
+[SYS] 2026/03/19 - 23:48:38 | 任务进度轮询开始 
+[SYS] 2026/03/19 - 23:48:38 | 任务进度轮询完成 
+[SYS] 2026/03/19 - 23:48:53 | 任务进度轮询开始 
+[SYS] 2026/03/19 - 23:48:53 | 任务进度轮询完成 
+[GIN] 2026/03/19 - 23:48:54 | api | 20260319154854588693115pyZrnEDb | 200 |    1.064043ms |             ::1 |     GET /api/status
+[GIN] 2026/03/19 - 23:48:55 | web | 20260319154855724000243Tx2bu4VX | 429 |    1.068068ms |    192.168.65.1 |     GET /
+[SYS] 2026/03/19 - 23:49:08 | 任务进度轮询开始 
+[SYS] 2026/03/19 - 23:49:08 | 任务进度轮询完成 
+[SYS] 2026/03/19 - 23:49:23 | syncing options from database 
+[SYS] 2026/03/19 - 23:49:23 | syncing channels from database 
+[SYS] 2026/03/19 - 23:49:23 | channels synced from database 
+[SYS] 2026/03/19 - 23:49:23 | 任务进度轮询开始 
+[SYS] 2026/03/19 - 23:49:23 | 任务进度轮询完成 
+[GIN] 2026/03/19 - 23:49:24 | api | 20260319154924702349851VIN08fuT | 200 |     842.924µs |             ::1 |     GET /api/status
+[SYS] 2026/03/19 - 23:49:38 | 任务进度轮询开始 
+[SYS] 2026/03/19 - 23:49:38 | 任务进度轮询完成 
+[SYS] 2026/03/19 - 23:49:53 | 任务进度轮询开始 
+[SYS] 2026/03/19 - 23:49:53 | 任务进度轮询完成 
+[GIN] 2026/03/19 - 23:49:54 | api | 20260319154954800657135kz5GG3bw | 200 |    1.225314ms |             ::1 |     GET /api/status

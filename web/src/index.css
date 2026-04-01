@@ -683,11 +683,11 @@ html.dark .sbg-variant-green {
 .shine-text {
   background: linear-gradient(
     90deg,
-    currentColor 0%,
-    currentColor 40%,
-    rgba(255, 255, 255, 0.9) 50%,
-    currentColor 60%,
-    currentColor 100%
+    #C96442 0%,
+    #D97757 35%,
+    #F5C4A8 50%,
+    #D97757 65%,
+    #C96442 100%
   );
   background-size: 200% 100%;
   -webkit-background-clip: text;
@@ -699,11 +699,11 @@ html.dark .sbg-variant-green {
 .dark .shine-text {
   background: linear-gradient(
     90deg,
-    currentColor 0%,
-    currentColor 40%,
-    #facc15 50%,
-    currentColor 60%,
-    currentColor 100%
+    #E8956D 0%,
+    #E8956D 35%,
+    #FDE8D8 50%,
+    #E8956D 65%,
+    #E8956D 100%
   );
   background-size: 200% 100%;
   -webkit-background-clip: text;
@@ -748,29 +748,29 @@ html.dark .sbg-variant-green {
 }
 
 .blur-ball-indigo {
-  background: #6366f1;
-  /* indigo-500 */
+  background: #D97757;
+  /* Claude coral */
   top: 40px;
   left: 50%;
   transform: translateX(-50%);
-  opacity: 0.5;
+  opacity: 0.55;
 }
 
 .blur-ball-teal {
-  background: #14b8a6;
-  /* teal-400 */
+  background: #C96442;
+  /* Claude deep amber */
   top: 200px;
   left: 30%;
-  opacity: 0.4;
+  opacity: 0.45;
 }
 
 /* 浅色主题下让模糊球更柔和 */
 html:not(.dark) .blur-ball-indigo {
-  opacity: 0.25;
+  opacity: 0.28;
 }
 
 html:not(.dark) .blur-ball-teal {
-  opacity: 0.2;
+  opacity: 0.22;
 }
 
 /* ==================== 卡片马卡龙模糊球（类封装） ==================== */
